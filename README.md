@@ -51,4 +51,4 @@ This project is licensed under the terms specified in the LICENSE file.
 
 ## Author
 
-The iOS app was created by Ali Mahouk. The app's back end was created by Abdullah Khan.
+The iOS app was created by Ali Mahouk in 2012. The app's back end was created by Abdullah Khan.
